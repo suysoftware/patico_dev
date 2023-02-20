@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>54156655233-la8hd58iu5sh9aj30ros4kahqm3magvu.apps.googleusercontent.com</string>
+	<string>********</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.54156655233-la8hd58iu5sh9aj30ros4kahqm3magvu</string>
+	<string>*******</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAay04HZ0U7FMFEkduFOCVkVfE8i0uPYNc</string>
+	<string>*****</string>
 	<key>GCM_SENDER_ID</key>
-	<string>54156655233</string>
+	<string>**********</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.dynamicgentis.paticoDev</string>
+	<string>****</string>
 	<key>PROJECT_ID</key>
 	<string>paticodevdb</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:54156655233:ios:0b7624c6cad4a16297eb80</string>
+	<string>*******</string>
 </dict>
 </plist>
